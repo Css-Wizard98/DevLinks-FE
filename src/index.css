@@ -1,0 +1,42 @@
+@import '@fontsource/nunito';
+@import "tailwindcss";
+
+
+/* Add Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Airbnb Color Palette*/
+:root {
+/* Core Brand Colors */
+  --color-primary: #FF5A5F;       /* Airbnb Coral Red */
+  --color-secondary: #767676;     /* Soft Gray */
+  --color-accent: #00A699;        /* Teal Accent */
+
+  /* Background & Surfaces */
+  --color-background: #FFFFFF;
+  --color-surface: #F7F7F7;       /* Light Gray Backgrounds */
+  --color-card: #FAFAFA;
+
+  /* Text Colors */
+  --color-text-primary: #222222;  /* Almost black for text */
+  --color-text-secondary: #484848;
+  --color-text-muted: #888888;
+
+  /* Border & Dividers */
+  --color-border: #E0E0E0;
+
+  /* Status Colors */
+  --color-success: #008489;       /* Used in success or active states */
+  --color-warning: #F7B733;
+  --color-error: #D93900;
+
+  /* Hover/Focus states */
+  --color-hover: #FF7E82;
+  --color-focus: #008489;
+
+  /* Others */
+  --border-radius: 12px;
+  --transition: 0.3s ease-in-out;
+}
