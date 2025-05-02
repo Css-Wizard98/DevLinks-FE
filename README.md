@@ -1,6 +1,33 @@
-# React + Vite
+# DevLinks-FE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description 
+
+DevLinks-FE is a web application that allows users to manage and share their developer links in an organized way. The project provides a user-friendly interface where developers can create accounts, log in, and curate their links for easy sharing and access.
+
+## Features
+
+-   **User Authentication:** Secure login and signup functionality.
+-   **Link Management:** Easy management of developer links.
+-   **Responsive Design:** Works well on various devices and screen sizes.
+-   **Modern Tech Stack:** Built with React and Vite for a fast and smooth experience.
+
+## Technology Stack
+  - **React:** A JavaScript library for building user interfaces.
+  - **Vite:** A build tool that aims to provide a faster and leaner development experience for modern web projects.
+  - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
+  - **Lucide-react:** a library for icons.
+
+## Installation and Setup
+
+To get the project up and running on your local machine, follow these steps:
+
+1.  **Clone the repository:**
+
+
+
+
+
+
 
 Currently, two official plugins are available:
 
